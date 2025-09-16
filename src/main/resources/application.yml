@@ -2,9 +2,9 @@ spring:
   application:
     name: MTR_CUSTOMER
   datasource:
-    url: jdbc:postgresql://database-mtr-app.cd0cmocg8b24.ap-south-1.rds.amazonaws.com:5432/database-mtr-app
+    url: jdbc:postgresql://database-mtr.cd0cmocg8b24.ap-south-1.rds.amazonaws.com:5432/mtrapp
     username: postgres
-    password: vZG3NizPVcQ1lBkfRBXY
+    password: 2lolhyFpNac8oFglWcjl
   jpa:
     hibernate:
       ddl-auto: update
